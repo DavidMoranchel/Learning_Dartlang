@@ -3,6 +3,8 @@
 
 import 'dart:html';
 
+
 void main() {
-  querySelector('#output').text = 'Your Dart app is running.';
+  //Hello word
+  querySelector('#output').text = 'Hello Word, this is my first web app with Dart.';
 }
